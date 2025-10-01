@@ -1,0 +1,3 @@
+[submodule "base_ui"]
+	path = base_ui
+	url = https://github.com/tpham007/ng-portal-base-ui
